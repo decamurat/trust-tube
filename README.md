@@ -146,13 +146,4 @@ Uygulamayı herhangi bir Python kurulumuna ihtiyaç duymadan çalıştırılabil
 - **[PyTorch](https://pytorch.org/):** Yapay zeka modelinin arka planda hızlı ve performanslı çalışmasını sağlayan derin öğrenme kütüphanesi.
 - **[Google API Python Client](https://github.com/googleapis/google-api-python-client):** YouTube Data API v3 üzerinden canlı video verileri ve yorum akışı çekmek için resmi kütüphane.
 
----
 
-## 📄 Lisans / License
-
-Bu proje **MIT Lisansı** altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasını inceleyebilirsiniz.
-
----
-
-*Geliştiren: [Murat](https://github.com/KULLANICI_ADINIZ)* 😉  
-*Herhangi bir sorun yaşarsanız lütfen **Issues** kısmından bildirim açmaktan çekinmeyin!*
