@@ -26,7 +26,7 @@ except ImportError:
 # =============================================================================
 # AYARLAR
 # =============================================================================
-API_KEY = "AIzaSyDoKXFsQ2rIeGMLTAYXe3oPmogWmfq4vYo" 
+API_KEY = "YOUR API KEY" 
 
 ctk.set_appearance_mode("Dark")
 ctk.set_default_color_theme("blue")
